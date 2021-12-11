@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-► 🔭 I’m currently working as a Mobile App Developer.
+➤ 🔭 I’m currently working as a Mobile App Developer.
 
-► 🌱 I’m currently learning iOS Development and AR/VR.
+➤ 🌱 I’m currently learning iOS Development and AR/VR.
 
-► 👯 I’m looking to collaborate on Open Source Projects.
+➤ 👯 I’m looking to collaborate on Open Source Projects.
 
-► 💬 Ask me about App Development stuff.
+➤ 💬 Ask me about App Development stuff.
 
-► 📫 How to reach me: https://www.linkedin.com/in/saeem-a-0699031a9
+➤ 📫 How to reach me: https://www.linkedin.com/in/saeem-a-0699031a9
 
 
