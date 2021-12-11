@@ -1,4 +1,4 @@
-### Hi there, I'm Saeem. 👋
+### Hi There, I'm Saeem. 👋
 
 <!--
 **saeem92/saeem92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
