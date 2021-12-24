@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ➤ 📫 How to reach me: https://www.linkedin.com/in/saeem-a-0699031a9
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <ahref="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <p align="left"> <a href="https://developer.apple.com/tutorials/app-dev-training/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/images/large/2x/apple-logo-transparent.png" alt="iOS" width="40" height="40"/></a> 
+<p align="left"> <ahref="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.apple.com/tutorials/app-dev-training/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/images/large/2x/apple-logo-transparent.png" alt="iOS" width="40" height="40"/></a> 
