@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ➤ 📫 How to reach me: https://www.linkedin.com/in/saeem-a-0699031a9
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=saeem92 &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeem92&theme=radical)
 
 
