@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-➤ 🔭 I’m currently working as a Mobile App Developer.
+➤ 🔭 I’m currently working as a Mobile Application Developer.
 
 ➤ 🌱 I’m currently learning iOS Development and AR/VR.
 
