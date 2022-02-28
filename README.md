@@ -23,7 +23,16 @@ Here are some ideas to get you started:
 
 ➤ 💬 Ask me about App Development stuff.
 
-➤ 📫 How to reach me: https://www.linkedin.com/in/saeem-a-0699031a9
+#### 📫 Connect with me:   
+  <a href="https://www.linkedin.com/in/saeem-a-0699031a9/" target="_blank">
+  <img alt= "Saeem | LinkedIn" width="28px" src="https://user-images.githubusercontent.com/95999134/153262267-ba18e1af-834f-4867-9021-26f27183d2ac.png" />
+  </a>
+  <a href="https://twitter.com/saeem_92" target="_blank">
+  <img alt="Saeem | Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  </a>
+  <a href="mailto:saeemahmed92@gmail.com" target="_blank">
+  <img alt= "Saeem | Gmail" width="28px" src="https://user-images.githubusercontent.com/95999134/153264363-eb53200b-a3ea-42b7-b772-f28b51f00842.png" />
+  </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://developer.apple.com/tutorials/app-dev-training/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/images/large/2x/apple-logo-transparent.png" alt="iOS" width="40" height="40"/></a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
